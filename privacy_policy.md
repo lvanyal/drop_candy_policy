@@ -1,68 +1,79 @@
 # Privacy Policy
 
-## Introduction
+_Last updated: March 26, 2025_
 
-Welcome to **Drop Bounce Match Merge Candy**! Your privacy is important to us, and we are committed to protecting it. This Privacy Policy outlines how we collect, use, and handle your information when you use our game.
+This Privacy Policy describes how your data is handled when using the **Drop Candy** mobile application (the "App").
 
-## Information We Collect
+We respect your privacy and do **not collect any personally identifiable information**. However, we use third-party services to support some features, such as subscriptions and analytics.
 
-### 1. Information You Provide
+---
 
-- **Contact Information:** If you contact us directly, we may receive your name, email address, and the contents of your message.
+## 1. Information We Do Not Collect
 
-### 2. Automatically Collected Information
+We do **not** collect or store any of the following:
 
-- **Device Information:** Information about your device, such as its operating system, device model, and unique identifiers.
-- **Usage Data:** Details about how you interact with the game, including gameplay statistics and crash reports.
-- **Analytics Data:** Data collected by third-party analytics services (e.g., Google Analytics for Firebase) to improve your experience.
+- Your name
+- Email address
+- Phone number
+- Location data
+- Photos or media
 
-### 3. In-App Purchases
+---
 
-If your game supports in-app purchases, payment information is handled by third-party platforms (e.g., Google Play or Apple App Store). We do not collect or store payment details.
+## 2. Third-Party Services
 
-## How We Use Your Information
+The App uses the following third-party services, which may collect certain data as part of their operations:
 
-We use the information collected to:
+### 📦 Adapty
 
-- Operate, improve, and maintain the game.
-- Diagnose technical issues and ensure functionality.
-- Provide customer support and respond to inquiries.
-- Analyze game usage to improve the gameplay experience.
+We use [Adapty](https://adapty.io) to manage in-app subscriptions and related analytics. Adapty may collect:
 
-## Third-Party Services
+- Anonymous device identifiers (such as IDFA or Android Advertising ID)
+- Purchase history (for subscription tracking and restore)
+- Usage statistics for improving subscription logic
 
-Our game may integrate with third-party services for analytics, advertisements, and social media sharing. These services may collect information in accordance with their privacy policies.
+You can review Adapty’s Privacy Policy here:  
+➡️ https://adapty.io/privacy/
 
-Examples include:
+---
 
-- Google Play Services
-- Google Analytics for Firebase
-- AdMob or other ad providers
+## 3. Data Usage
 
-## Data Sharing
+Data collected by third-party services is used to:
 
-We do not sell or rent your personal data to third parties. However, we may share data with:
+- Enable in-app purchases and subscription features
+- Restore purchases across devices
+- Analyze how users interact with premium content
 
-- **Service Providers:** For analytics and functionality.
-- **Legal Authorities:** When required by law.
+We do not use or share any of this data ourselves.
 
-## Data Security
+---
 
-We strive to protect your data with industry-standard measures. However, no method of data transmission or storage is completely secure, and we cannot guarantee absolute security.
+## 4. Children’s Privacy
 
-## Children’s Privacy
+The App is not intended for children under the age of 13. We do not knowingly collect personal information from children.
 
-Our game is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If you believe we have collected such information, please contact us, and we will take appropriate action.
+---
 
-## Changes to This Privacy Policy
+## 5. Your Rights
 
-We may update this Privacy Policy from time to time. Changes will be posted on this page, and the "Last Updated" date will be revised.
+Since we do not collect personal data directly, there is no stored data to request, delete, or export.
 
-## Contact Us
+For third-party services (e.g., Adapty), please contact them directly regarding your data rights.
 
-If you have any questions about this Privacy Policy, please contact us at:  
-**Email:** onpalm.app@gmail.com
+---
 
-## Last Updated
+## 6. Contact
 
-**09.01.2025**
+If you have any questions about this policy, feel free to reach out at:  
+📧 **onpalm.app@gmail.com**
+
+---
+
+## 7. Changes to This Policy
+
+We may update this policy from time to time. Updates will be posted on this page with a new “Last updated” date.
+
+---
+
+Thank you for using **Drop Candy**! 🍬
